@@ -1,0 +1,1 @@
+print("dog_foot_bird_foot_")
